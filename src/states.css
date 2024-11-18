@@ -1,0 +1,15 @@
+.select-country {
+    width: 400px;
+    height: 40px;
+    /* text-align: center; */
+    /* padding: 20px; */
+    padding: 10px;
+    margin-left: 400px;
+}
+
+.select {
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    margin-left: 20px ;
+}
